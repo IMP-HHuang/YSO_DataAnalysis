@@ -1,7 +1,7 @@
 # YSO_Data Analysis
 
   - 1. [class](./class)
-        - map.txt
+    - map.txt
           - det = 0 : YSO
             - cid = 0 : A
             - cid = 1 : B
