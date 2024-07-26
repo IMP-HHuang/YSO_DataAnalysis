@@ -4,11 +4,11 @@
     - map.txt
       - det = 0 : YSO
         - cid = 0 : A
-            - cid = 1 : B
-            - cid = 2 : C
-            - cid = 3 : D
-          - det = 1 : Ge
-          - det = 2 : Pulse
+        - cid = 1 : B
+        - cid = 2 : C
+        - cid = 3 : D
+      - det = 1 : Ge
+      - det = 2 : Pulse
           
      - Raw of YSO
 
