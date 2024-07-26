@@ -13,3 +13,5 @@
      - Position for YSO
        
        $$x = \frac{RawA + RawB}{RawA + RawB + RawC + RawD}$$
+
+       $$y = \frac{RawA + RawD}{RawA + RawB + RawC + RawD}$$
