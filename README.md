@@ -9,4 +9,5 @@
           - cid = 3 : D
         - det = 1 : Ge
         - det = 2 : Pulse 
-   
+     - Position for YSO
+       $$x = \frac{RawA + RawB}{RawA + RawB + RawC + RawD}$$
