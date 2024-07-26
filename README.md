@@ -2,7 +2,7 @@
 
   - 1. [class](./class)
     - map.txt
-          - det = 0 : YSO
+      - det = 0 : YSO
             - cid = 0 : A
             - cid = 1 : B
             - cid = 2 : C
