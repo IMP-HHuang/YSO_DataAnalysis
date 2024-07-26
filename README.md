@@ -12,7 +12,7 @@
           
      - Raw of YSO
 
-        $$Raw = QDC[2] (5 mus) + QDC[3] (5 \mu s) - QDC[0](5 \mu s) - QDC1 (5\mu s)$$
+        $$Raw = QDC[2] (5 \mu s) + QDC[3] (5 \mu s) - QDC[0](5 \mu s) - QDC1 (5\mu s)$$
 
      - Position for YSO
        
