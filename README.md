@@ -2,7 +2,11 @@
 
   - 1. [class](./class)
       - map.txt
-        - 0 : YSO
-        - 1 : Ge
-        - 2 : Pulse 
+        - det = 0 : YSO
+          - cid = 0 : A
+          - cid = 1 : B
+          - cid = 2 : C
+          - cid = 3 : D
+        - det = 1 : Ge
+        - det = 2 : Pulse 
    
